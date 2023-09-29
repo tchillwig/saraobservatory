@@ -8,6 +8,8 @@
 
 **SARA-ORM:** Nominal Operations (updated 23.09.29)
 
-##### Note: Issues are discussed in the SARA Observatory Discord Server.  Ask you SARA Board Member for an invitation if you have not already joined.
+---
+
+**Note:** Technical issues are discussed in the SARA Observatory Discord Server.  Ask you SARA Board Member for an invitation if you have not already joined.
 
 [Link to saraobservatory.org website](https://saraobservatory.org)
