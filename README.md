@@ -1,9 +1,9 @@
 ## Status Page for SARA Observatories
 
 **SARA-KPNO:** 
-- Photometry unavailable: ARC camera out of service pending shutter replacement
+- Observatory fully functional.
 - UPDATE The ARC camera has a new iris shutter and is now operational again.
-- Pleaes use the system and report on its performance.(updated 23.10.23 by ACE/P.Mack)
+- Please use the system and report on its performance.(updated 23.10.23 by ACE/P.Mack)
 
 **SARA-CTIO:** Closed until further notice. (updated 23.09.29 by M. Wood)
 
