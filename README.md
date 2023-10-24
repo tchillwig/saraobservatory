@@ -2,11 +2,8 @@
 
 **SARA-KPNO:** 
 - Photometry unavailable: ARC camera out of service pending shutter replacement
-- UPDATE (10/14/23): We have found a 100mm diameter shutter and are making a new housing for it.
-- My estimate of completion by 10/18 proved too ambitious.
-- I am now thinking completion by Monday 23rd (we are also working on it Saturday and Sunday).
-- Current estimate for back online is Tuesday 24th.
-- Spectrograph and QSI guide camera operational. (updated 23.10.19 by ACE/P.Mack)
+- UPDATE The ARC camera has a new iris shutter and is now operational again.
+- Pleaes use the system and report on its performance.(updated 23.10.23 by ACE/P.Mack)
 
 **SARA-CTIO:** Closed until further notice. (updated 23.09.29 by M. Wood)
 
