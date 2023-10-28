@@ -7,7 +7,7 @@
 
 **SARA-CTIO:** Closed until further notice. (updated 23.09.29 by M. Wood)
 
-**SARA-ORM:**  Closed due to dome shutter gearbox failure (updated 23.10.18 by P Mack)
+**SARA-ORM:**  Closed due to dome shutter gearbox failure. Optimistic fix date is late November. (updated 23.10.18 by P Mack)
 
 ---
 
