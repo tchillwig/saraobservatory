@@ -1,6 +1,8 @@
 ## Status Page for SARA Observatories
 
 **SARA-KPNO:** 
+- UPDATE: ALL Instruments now functioning normally!  Observatory fully operational and good for full range of photometry and spectroscopy observations. (23.10.31 by G. Henson)
+- 
 - UPDATE: ARC CCD communicating now, However, QSI guide camera cannot focus and guider stage will not move from current position. Photometry is operational minus guider for now, Spectrograph all working nominally. (23.10.30 by G. Henson)
 
 - Observatory fully functional.
