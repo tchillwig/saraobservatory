@@ -1,6 +1,6 @@
 ## Status Page for SARA Observatories
 
-**SARA-KPNO:** Observatory fully functional. New PZT camera avilable on .169.
+**SARA-KPNO:** Observatory fully functional. New PZT camera available on .169.
   
 **SARA-CTIO:** Closed until further notice. (updated 23.09.29 by M. Wood)
 
