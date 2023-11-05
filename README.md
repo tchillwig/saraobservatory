@@ -1,6 +1,6 @@
 ## Status Page for SARA Observatories
 
-**SARA-KPNO:** Observatory fully functional. New PZT camera available on .169.
+**SARA-KPNO:** Leach CCD camera "new" shutter failure so Imaging with shutter is NOT AVAILABLE until further notice. Spectrograph is available (updated 11/5/23 G. Henson)
   
 **SARA-CTIO:** Closed until further notice. (updated 23.09.29 by M. Wood)
 
